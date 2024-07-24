@@ -1,0 +1,23 @@
+{
+    "menu": 0.1392018779342723,
+    "carbonara": 0.021739130434782608,
+    "bubble": 0.1541237113402062,
+    "pretzel": 0.14883015597920277,
+    "street sign": 0.046638972809667674,
+    "toilet tissue, toilet paper, bathroom tissue": 0.05684870188003581,
+    "French loaf": 0.028790786948176585,
+    "traffic light, traffic signal, stoplight": 0.1518595041322314,
+    "bun, roll": 0.047050561797752806,
+    "sauce": -0.0640096618357488,
+    "dip": 0.05291790306627102,
+    "feed, provender": -0.018029739776951673,
+    "sandwich": 0.10354857475276323,
+    "foodstuff, food product": 0.06033452807646356,
+    "nutriment, nourishment, nutrition, sustenance, aliment, alimentation, victuals": 0.02391857506361323,
+    "geological formation, formation": 0.1253541076487252,
+    "beverage, drink, drinkable, potable": 0.17551963048498845,
+    "vegetable, veggie, veg": 0.08687150837988827,
+    "natural object": 0.004485645933014354,
+    "artifact, artefact": 0.06559608056614044,
+    "organism, being": 0.11381618989653074
+}

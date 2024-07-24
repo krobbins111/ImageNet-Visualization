@@ -1,0 +1,10 @@
+{
+    "bicycle, bike, wheel, cycle": 0.09208211143695015,
+    "car, railcar, railway car, railroad car": 0.0897239263803681,
+    "handcart, pushcart, cart, go-cart": 0.11844155844155844,
+    "motor scooter, scooter": 0.04266873545384019,
+    "self-propelled vehicle": 0.013469827586206896,
+    "tricycle, trike, velocipede": 0.11375212224108659,
+    "unicycle, monocycle": 0.09620048504446241,
+    "wagon, waggon": 0.128686327077748
+}

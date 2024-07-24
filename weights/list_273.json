@@ -1,0 +1,19 @@
+{
+    "altar": 0.04236947791164659,
+    "area": 0.03732545649838883,
+    "bridge, span": 0.13651794374393791,
+    "building, edifice": -0.009280742459396751,
+    "building complex, complex": -0.06475409836065574,
+    "coil, spiral, volute, whorl, helix": 0.16450125733445095,
+    "column, pillar": 0.022018117765475593,
+    "defensive structure, defense, defence": 0.09364994663820704,
+    "establishment": 0.054989816700611,
+    "fountain": 0.07087511394712853,
+    "housing, lodging, living accommodations": 0.04714970697922216,
+    "landing, landing place": 0.005975013579576317,
+    "memorial, monument": -0.008180466038671294,
+    "obstruction, obstructor, obstructer, impediment, impedimenta": 0.042093023255813954,
+    "shelter": 0.06791626095423564,
+    "supporting structure": 0.033112582781456956,
+    "tower": 0.07816941444002275
+}
